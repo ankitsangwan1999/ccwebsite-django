@@ -30,7 +30,7 @@ A one stop solution for tech/coding enthusiasts following CC Club, MNNIT Allahab
 * Live notification feature.
 * Mobile Responsive UI.
 * Password Reset through Email.
-* Real time Search feature and MANY MORE…….
+* Real time Search feature using AJAX.
 
 ### Screenshots of Website
 * Homepage 
